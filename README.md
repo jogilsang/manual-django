@@ -1,0 +1,2 @@
+# manual-django
+for me
